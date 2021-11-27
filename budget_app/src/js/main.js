@@ -78,7 +78,7 @@ countBtn.addEventListener('click', function() {
              console.log("Произошла ошибка");
          };
     } else {
-        levelValue.textContent = "Произошла ошибка";
+        levelValue.textContent = "Произошла ошибка!";
     }
 });
 
